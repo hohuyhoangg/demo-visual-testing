@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Start testing with the Katalon Platform_43b96c</name>
+   <tag></tag>
+   <elementGuidId>6bd11732-d4eb-436c-923c-85382469bed1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='download-katalon-studio-dialog']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.css-ekeie0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df04afcf-b8f5-4fbe-b226-64619b347998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper css-ekeie0</value>
+      <webElementGuid>06d2ae8c-3d1e-4e9d-9144-147e7308faa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>057b91bc-c789-4059-ae76-0a6144c5c27c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1be35343-da90-4b45-8bd0-8118dab2c26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start testing with the Katalon PlatformCreated with Sketch.Katalon StudioKatalon Studio - Platform EditionOur primary authoring solution that seamlessly integrates with the Katalon Platform.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.Katalon StudioKatalon Studio - Standalone EditionA git-independent authoring tool suited for offline &amp; on-premise testing environments.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.Katalon Runtime EngineKatalon Runtime EngineExecute tests in CI/CD pipelines or via the command-line interface.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.By downloading, you agree to Katalon Terms and Privacy Policy</value>
+      <webElementGuid>166fba4a-76df-4e50-85ca-b3966ca774a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;download-katalon-studio-dialog&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]</value>
+      <webElementGuid>6f6dbf30-5578-4472-8c46-54db8784998d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='download-katalon-studio-dialog']/div[3]</value>
+      <webElementGuid>ff65fb04-3c48-40ac-bb3e-5b70f9395fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Studio'])[1]/following::div[4]</value>
+      <webElementGuid>4d65baf8-a6a6-4cf1-8bdf-fe173c4e55b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Organization_01'])[1]/following::div[6]</value>
+      <webElementGuid>fa7c5f3a-2b08-44af-90bc-ffb3a06ad2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]</value>
+      <webElementGuid>2859d3aa-80b8-4628-a362-fb8b3d943d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Start testing with the Katalon PlatformCreated with Sketch.Katalon StudioKatalon Studio - Platform EditionOur primary authoring solution that seamlessly integrates with the Katalon Platform.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.Katalon StudioKatalon Studio - Standalone EditionA git-independent authoring tool suited for offline &amp; on-premise testing environments.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.Katalon Runtime EngineKatalon Runtime EngineExecute tests in CI/CD pipelines or via the command-line interface.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.By downloading, you agree to Katalon Terms and Privacy Policy' or . = 'Start testing with the Katalon PlatformCreated with Sketch.Katalon StudioKatalon Studio - Platform EditionOur primary authoring solution that seamlessly integrates with the Katalon Platform.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.Katalon StudioKatalon Studio - Standalone EditionA git-independent authoring tool suited for offline &amp; on-premise testing environments.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.Katalon Runtime EngineKatalon Runtime EngineExecute tests in CI/CD pipelines or via the command-line interface.Created with Sketch.macOS DownloadWe no longer support Windows 32bit.By downloading, you agree to Katalon Terms and Privacy Policy')]</value>
+      <webElementGuid>e01f78df-ea79-423a-b315-be3f1e86a17c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

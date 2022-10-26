@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "E9FA39AA4C386938B4C8CC442689DE18",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.custom.CustomKeyword",
+      "keywordMethods": [
+        {
+          "name": "enhancedSetViewportSize",
+          "parameters": [
+            {
+              "name": "width",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "height",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Enhanced version of WebUI.setViewPortSize. This keyword ensure the viewport(not browser window size) is set to match the size.\n\t * Require JS to be enabled.\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

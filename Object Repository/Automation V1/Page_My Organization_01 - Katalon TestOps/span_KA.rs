@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_KA</name>
+   <tag></tag>
+   <elementGuidId>3ea1fde3-8b65-47f7-99ab-9e40e03492e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-right-navbar']/button[2]/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad4f9c92-2bc1-4249-b61d-704474276476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KA</value>
+      <webElementGuid>4efdaf00-a89f-4c0a-8676-b73bfc79a4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-right-navbar&quot;)/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeLarge css-resnt5&quot;]/div[@class=&quot;avatar&quot;]/div[@class=&quot;rounded-circle sb-avatar sb-avatar--text&quot;]/div[@class=&quot;rounded-circle sb-avatar__text&quot;]/div[1]/span[1]</value>
+      <webElementGuid>e605795e-b243-483d-b9eb-8b1572209d4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-right-navbar']/button[2]/div/div/div/div/span</value>
+      <webElementGuid>26554837-21c5-46b5-a5eb-48c57e96b84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Demo Site'])[1]/following::span[4]</value>
+      <webElementGuid>557559ab-89c9-43ab-8d48-21d0ebe1a51c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Studio'])[1]/following::span[4]</value>
+      <webElementGuid>7f1b8652-ea36-4e88-91f4-68f99406d312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to My Organization_01'])[1]/preceding::span[5]</value>
+      <webElementGuid>cd08fc71-952f-4986-852a-ac3ee8be4b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>cb0cccf5-5893-43fc-af37-beb8f812f2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'KA' or . = 'KA')]</value>
+      <webElementGuid>0a4c5db8-c211-471e-aea3-bc11a2cc3675</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
